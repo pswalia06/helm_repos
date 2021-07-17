@@ -3,7 +3,7 @@ entries:
   gitrropotest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-17T01:42:35.329046099-04:00"
+    created: "2021-07-17T01:49:27.318177871-04:00"
     description: A new github chart for Kubernetes
     digest: 53353a9774967357448c19258b40c8492f3387f34ea9cd78cafab1baf75ea3ac
     name: gitrropotest
@@ -14,7 +14,7 @@ entries:
   repotestvw2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-17T01:42:35.330086201-04:00"
+    created: "2021-07-17T01:49:27.319655288-04:00"
     description: A Helm chart for Kubernetes
     digest: 3e6362ad36228f9be0ed9ad27c46028284f31698d6971c79ae945e98b3e05bd3
     name: repotestvw2
@@ -22,4 +22,15 @@ entries:
     urls:
     - repotestvw2-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-17T01:42:35.328006929-04:00"
+  upgrade-rlb:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-17T01:49:27.321843615-04:00"
+    description: checking fine  Helm chart for Kubernetes
+    digest: 872259e646039e0849619d460af5e102e37ce7ef7ade579ea168b89ce4b22434
+    name: upgrade-rlb
+    type: application
+    urls:
+    - upgrade-rlb-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-17T01:49:27.316370011-04:00"
