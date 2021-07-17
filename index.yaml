@@ -3,7 +3,7 @@ entries:
   gitrropotest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-17T01:24:31.995126198-04:00"
+    created: "2021-07-17T01:42:35.329046099-04:00"
     description: A new github chart for Kubernetes
     digest: 53353a9774967357448c19258b40c8492f3387f34ea9cd78cafab1baf75ea3ac
     name: gitrropotest
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitrropotest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-17T01:24:31.99212897-04:00"
+  repotestvw2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-17T01:42:35.330086201-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 3e6362ad36228f9be0ed9ad27c46028284f31698d6971c79ae945e98b3e05bd3
+    name: repotestvw2
+    type: application
+    urls:
+    - repotestvw2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-17T01:42:35.328006929-04:00"
